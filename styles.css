@@ -1,0 +1,28 @@
+body {
+    font-family: "Vibes", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: red;
+    background-image: linear-gradient(black, grey);
+    margin: 15px 35px 45px 35px;
+}
+h1 {
+    text-align: center;
+
+}
+#img1, #img3, #img5, #img7, #img9 {
+    width: 25%;
+    height: auto;
+    border: 1px red solid;
+}
+#img2, #img4, #img6, #img8, #img10 {
+    width: 20%;
+    height: auto;
+    border: 1px red solid;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+}
