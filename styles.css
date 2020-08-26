@@ -3,12 +3,11 @@ body {
     font-size: 1.5rem;
     letter-spacing: 3px;
     color: red;
-    background-image: linear-gradient(black, grey);
+    background-color: black;
     margin: 15px 35px 45px 35px;
 }
 h1 {
     text-align: center;
-
 }
 #img1, #img3, #img5, #img7, #img9 {
     width: 25%;
@@ -20,7 +19,10 @@ h1 {
     height: auto;
     border: 1px red solid;
 }
-
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px red solid;
+}
 footer {
     text-align: center;
     font-size: 1rem;
